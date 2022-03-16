@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zLeolein
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python and web developing
+- 📫 How to reach me Kontakt@zleolein.tk
